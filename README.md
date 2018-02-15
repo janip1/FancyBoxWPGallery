@@ -7,3 +7,7 @@ First working version of this plugin. If you want more feel free to report Issue
    - Upload plugin folder to: wordpress/path/your/plugins/
    - Activate in admin panel
    - Done!
+
+## How to use?
+   - Add images and create gallery inside post or page
+   - That's it! :D
